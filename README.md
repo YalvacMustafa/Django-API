@@ -62,3 +62,12 @@ logout işlemi için:
 ```bash
 http://127.0.0.1:8000/api-auth/logout
 ```
+## Kullanıcı Giriş 
+Örnek kullanıcı giriş bilgisi:
+username: user1
+password: user1user1
+
+diğer kullanıcılar için ise sadece sayı artarak devam ediyor.
+Örnek:
+username: userx
+password: userxuserx
